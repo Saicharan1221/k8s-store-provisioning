@@ -65,9 +65,8 @@ Local Cluster: kind
 Production-like Cluster: k3s  
 
 ---
-
-   PROJECT STRUCTURE
------------------
+## 📂 Project Structure
+<pre>
 k8s-store-provisioning
 │
 ├── store-backend
@@ -85,6 +84,8 @@ k8s-store-provisioning
 │   └── package.json
 │
 └── README.md
+</pre>
+
 
 ---
 
@@ -259,4 +260,5 @@ All deliverables completed:
 - GitHub repository ready
 
 END OF DOCUMENT
+
 
