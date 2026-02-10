@@ -66,7 +66,7 @@ Production-like Cluster: k3s
 
 ---
 
-PROJECT STRUCTURE
+   PROJECT STRUCTURE
 -----------------
 k8s-store-provisioning
 │
@@ -259,3 +259,4 @@ All deliverables completed:
 - GitHub repository ready
 
 END OF DOCUMENT
+
